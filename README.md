@@ -63,7 +63,7 @@ My focus is on understanding data deeply, extracting meaningful insights, and gr
 ## 📊 GitHub Performance
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=PrakharPurwar12&show_icons=true&theme=default" />
 </p>
 
 ---
