@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prakhar+Purwar;Data+Science+%26+Analytics+Enthusiast;Turning+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prakhar+Purwar;Data+Science+%26+Analytics+Enthusiast;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=PrakharPurwar12&label=Profile%20Views&color=2E86AB&style=flat-square" alt="Profile Views" />
 &nbsp;
@@ -10,26 +10,28 @@
 <a href="mailto:purwarprakhar00@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://prakharpurwar12.github.io/My-Website/"><img src="https://img.shields.io/badge/Portfolio-Visit-2E86AB?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+&nbsp;
+<a href="https://drive.google.com/file/d/10aXF_NYIoYe-Su5vyQfxLmPX-oMzvUJE/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20CV-4CAF50?style=flat-square&logo=googledrive&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 > *"Data is not just numbers — it's the story waiting to be told."*
 
 I'm a **Computer Science student** with a sharp focus on **Data Science, Analytics, and Machine Learning**. I thrive at the intersection of statistics, programming, and business insight — building solutions that turn raw data into meaningful, actionable narratives.
 
-- 🎯 Currently deepening my expertise in **EDA, Statistical Modeling & ML Pipelines**
-- 🌱 Learning advanced **Feature Engineering** and **Model Evaluation Techniques**
-- 🔍 Passionate about finding patterns that others overlook
-- 💬 Ask me about **Python, Pandas, Data Visualization, or Scikit-learn**
-- 📫 Reach me at **purwarprakhar00@gmail.com**
+- Currently deepening my expertise in **EDA, Statistical Modeling & ML Pipelines**
+- Learning advanced **Feature Engineering** and **Model Evaluation Techniques**
+- Passionate about finding patterns that others overlook
+- Ask me about **Python, Pandas, Data Visualization, or Scikit-learn**
+- Reach me at **purwarprakhar00@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -58,12 +60,12 @@ I'm a **Computer Science student** with a sharp focus on **Data Science, Analyti
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Loan Approval Prediction</h3>
+      <h3>Loan Approval Prediction</h3>
       <p>
         An end-to-end <strong>ML pipeline</strong> built to predict loan approval outcomes with high accuracy. Covers the full workflow from raw data to actionable predictions.
       </p>
@@ -79,7 +81,7 @@ I'm a **Computer Science student** with a sharp focus on **Data Science, Analyti
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Socio-Economic Data Analysis</h3>
+      <h3>Socio-Economic Data Analysis</h3>
       <p>
         A data analysis deep-dive into <strong>real-world survey datasets</strong> to uncover socio-economic trends and derive insight-driven conclusions.
       </p>
@@ -97,7 +99,7 @@ I'm a **Computer Science student** with a sharp focus on **Data Science, Analyti
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Data Analysis Practice Repository</h3>
+      <h3>Data Analysis Practice Repository</h3>
       <p>
         A growing collection of <strong>EDA notebooks and mini-projects</strong> designed to sharpen practical data handling and visualization skills.
       </p>
@@ -113,14 +115,14 @@ I'm a **Computer Science student** with a sharp focus on **Data Science, Analyti
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔭 More Coming Soon...</h3>
+      <h3>More Coming Soon...</h3>
       <p>
         Currently building projects in the areas of:
       </p>
       <ul>
-        <li>📌 Time Series Analysis</li>
-        <li>📌 NLP & Text Analytics</li>
-        <li>📌 Interactive Dashboards</li>
+        <li>Time Series Analysis</li>
+        <li>NLP & Text Analytics</li>
+        <li>Interactive Dashboards</li>
       </ul>
       <p><em>Watch this space — each project represents a new step forward.</em></p>
     </td>
@@ -129,7 +131,7 @@ I'm a **Computer Science student** with a sharp focus on **Data Science, Analyti
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrakharPurwar12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
@@ -143,7 +145,7 @@ I'm a **Computer Science student** with a sharp focus on **Data Science, Analyti
 
 ---
 
-## 📚 Current Learning Roadmap
+## Current Learning Roadmap
 
 ```text
 Data Cleaning & Preprocessing   ████████████████████░   90%
@@ -156,27 +158,28 @@ Deep Learning (Upcoming)        ████░░░░░░░░░░░░
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 I am building toward a career as a **Data Analyst / ML Engineer** — someone who doesn't just run models, but understands the business context behind data decisions.
 
 My approach:
-- ✅ Build strong **statistical intuition** before reaching for complex algorithms
-- ✅ Prioritize **clear communication** of findings to both technical and non-technical audiences
-- ✅ Ship real projects that solve real problems — not just tutorial reproductions
+- Build strong **statistical intuition** before reaching for complex algorithms
+- Prioritize **clear communication** of findings to both technical and non-technical audiences
+- Ship real projects that solve real problems — not just tutorial reproductions
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| 🌐 **Portfolio** | [prakharpurwar12.github.io/My-Website](https://prakharpurwar12.github.io/My-Website/) |
-| 💼 **LinkedIn** | [linkedin.com/in/prakharpurwar](https://www.linkedin.com/in/prakharpurwar/) |
-| 📧 **Email** | [purwarprakhar00@gmail.com](mailto:purwarprakhar00@gmail.com) |
-| 💻 **GitHub** | [github.com/PrakharPurwar12](https://github.com/PrakharPurwar12) |
+| **Resume / CV** | [View on Google Drive](https://drive.google.com/file/d/10aXF_NYIoYe-Su5vyQfxLmPX-oMzvUJE/view?usp=sharing) |
+| **Portfolio** | [prakharpurwar12.github.io/My-Website](https://prakharpurwar12.github.io/My-Website/) |
+| **LinkedIn** | [linkedin.com/in/prakharpurwar](https://www.linkedin.com/in/prakharpurwar/) |
+| **Email** | [purwarprakhar00@gmail.com](mailto:purwarprakhar00@gmail.com) |
+| **GitHub** | [github.com/PrakharPurwar12](https://github.com/PrakharPurwar12) |
 
 </div>
 
@@ -186,6 +189,6 @@ My approach:
 
 *"Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown."*
 
-⭐ **If you find my work valuable, consider starring a repo — it means the world!** ⭐
+**If you find my work valuable, consider starring a repo — it means the world!**
 
 </div>
