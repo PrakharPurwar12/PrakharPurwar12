@@ -175,7 +175,7 @@ My approach:
 
 | Platform | Link |
 |----------|------|
-| **Resume / CV** | [View on Google Drive](https://drive.google.com/file/d/10aXF_NYIoYe-Su5vyQfxLmPX-oMzvUJE/view?usp=sharing) |
+| **Resume / CV** | [View on Google Drive](https://drive.google.com/file/d/13U5DjmTdKeXYO692snkqfoHPQh2G2B_2/view?usp=sharing) |
 | **Portfolio** | [prakharpurwar12.github.io/My-Website](https://prakharpurwar12.github.io/My-Website/) |
 | **LinkedIn** | [linkedin.com/in/prakharpurwar](https://www.linkedin.com/in/prakharpurwar/) |
 | **Email** | [purwarprakhar00@gmail.com](mailto:purwarprakhar00@gmail.com) |
