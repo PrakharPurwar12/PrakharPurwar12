@@ -113,24 +113,24 @@ class Prakhar:
 
 <div align="center">
 
-<!-- ✅ FIX 1: github-readme-stats.vercel.app — most reliable, widely used -->
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=PrakharPurwar12&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&ring_color=00D4FF&theme=transparent" />
+<!-- Stats Card — WakaTime-independent, always renders -->
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=PrakharPurwar12&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&ring_color=00D4FF&cache_seconds=1800" />
 &nbsp;
-<!-- ✅ FIX 2: Top Languages — same reliable source -->
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharPurwar12&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&theme=transparent" />
+<!-- Top Languages -->
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharPurwar12&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<!-- ✅ FIX 3: Streak Stats — demolab is stable -->
+<!-- Streak Stats -->
 <img width="70%" src="https://streak-stats.demolab.com/?user=PrakharPurwar12&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=00D4FF&dates=c9d1d9&stroke=0d1117&sideLabels=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-<!-- ✅ FIX 4: Activity Graph — vercel instance is reliable -->
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharPurwar12&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=003d52&hide_border=true" width="100%" />
 
 </div>
