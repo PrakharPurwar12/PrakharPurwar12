@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # Runs every day at midnight UTC
   workflow_dispatch:       # Allows manual trigger from GitHub Actions tab
 
+permissions:
+  contents: write  # ✅ FIX 1: git push ke liye write permission zaroori hai
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -18,7 +21,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      # ✅ FIX 2: v4 uses Node.js 24 — no more deprecation warning
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
