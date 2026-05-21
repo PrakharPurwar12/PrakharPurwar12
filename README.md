@@ -7,11 +7,11 @@
 
 <!-- Badges Row -->
 <a href="https://linkedin.com/in/prakharpurwar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:purwarprakhar00@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://prakharpurwar12.github.io/My-Website/">
@@ -26,7 +26,6 @@
 
 <br/><br/>
 
-<!-- Decorative Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
 
 </div>
@@ -114,27 +113,34 @@ class Prakhar:
 
 <div align="center">
 
-<!-- Stats Card — hosted on gh-readme-stats (most stable instance) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrakharPurwar12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&ring_color=00D4FF&cache_seconds=1800" />
-&nbsp;&nbsp;
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharPurwar12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&cache_seconds=1800" />
+<!-- ✅ FIX 1: github-readme-stats.vercel.app — most reliable, widely used -->
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=PrakharPurwar12&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&ring_color=00D4FF&theme=transparent" />
+&nbsp;
+<!-- ✅ FIX 2: Top Languages — same reliable source -->
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharPurwar12&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&theme=transparent" />
 
 </div>
 
 <div align="center">
 
-<!-- Streak Stats — using git.io/streak-stats (more reliable) -->
-<img src="https://streak-stats.demolab.com/?user=PrakharPurwar12&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888&stroke=00D4FF" />
+<!-- ✅ FIX 3: Streak Stats — demolab is stable -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=PrakharPurwar12&theme=dark&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=00D4FF&dates=c9d1d9&stroke=0d1117&sideLabels=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-<!-- Activity Graph — ashutosh00710 is the maintained fork -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharPurwar12&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&radius=6" width="100%" />
+<!-- ✅ FIX 4: Activity Graph — vercel instance is reliable -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharPurwar12&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=003d52&hide_border=true" width="100%" />
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- ✅ FIX 5: Snake — workflow setup karo (instructions neeche hain), phir ye line kaam karegi -->
+![Snake](https://raw.githubusercontent.com/PrakharPurwar12/PrakharPurwar12/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -180,7 +186,6 @@ class Prakhar:
 
 ---
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
@@ -190,9 +195,5 @@ class Prakhar:
 <br/>
 
 **⭐ If you find my work valuable, consider starring a repo — it truly means the world! ⭐**
-
-<br/>
-
-![Snake animation](https://github.com/PrakharPurwar12/PrakharPurwar12/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
