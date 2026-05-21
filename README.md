@@ -35,7 +35,7 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Data Science GIF" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFmZjZkMDB3YXR2ZW9uanltMDFlaW5reTluc3FvaGd3ZzMydTNheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Data Science GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 > *"Data is not just numbers — it's the story waiting to be told."*
 
@@ -114,18 +114,26 @@ class Prakhar:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrakharPurwar12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&ring_color=00D4FF" />
+<!-- Stats Card — hosted on gh-readme-stats (most stable instance) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrakharPurwar12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&ring_color=00D4FF&cache_seconds=1800" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharPurwar12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" />
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharPurwar12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharPurwar12&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=00D4FF" />
+
+<!-- Streak Stats — using git.io/streak-stats (more reliable) -->
+<img src="https://streak-stats.demolab.com/?user=PrakharPurwar12&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideNums=00D4FF&dates=888888&stroke=00D4FF" />
+
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharPurwar12&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+<!-- Activity Graph — ashutosh00710 is the maintained fork -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharPurwar12&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&radius=6" width="100%" />
+
 </div>
 
 ---
