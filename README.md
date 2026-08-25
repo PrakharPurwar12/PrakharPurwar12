@@ -160,7 +160,7 @@ Upcoming projects in cutting-edge areas.
 | Repository | ⭐ Stars | 🍴 Forks | Language | Last Updated |
 |---|---|---|---|---|
 | [python-github-repository](https://github.com/PrakharPurwar12/python-github-repository) | 11 | 2 | Jupyter Notebook | 2026-07-23 |
-| [Programming_Practice](https://github.com/PrakharPurwar12/Programming_Practice) | 2 | 0 | Jupyter Notebook | 2026-08-24 |
+| [Programming_Practice](https://github.com/PrakharPurwar12/Programming_Practice) | 2 | 0 | Jupyter Notebook | 2026-08-25 |
 | [excel-dashboard-Project](https://github.com/PrakharPurwar12/excel-dashboard-Project) | 2 | 0 | — | 2026-07-23 |
 | [CHAT-BOT](https://github.com/PrakharPurwar12/CHAT-BOT) | 2 | 0 | HTML | 2026-07-23 |
 | [Car-Price-Prediction-Model](https://github.com/PrakharPurwar12/Car-Price-Prediction-Model) | 2 | 0 | Jupyter Notebook | 2026-07-23 |
